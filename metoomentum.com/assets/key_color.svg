@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77 16.739">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-4);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feb39c"/>
+      <stop offset="0.079" stop-color="#feb39c"/>
+      <stop offset="1" stop-color="#f1dcc1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdd4af"/>
+      <stop offset="1" stop-color="#d6ebe5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#80cdc3"/>
+      <stop offset="1" stop-color="#dfefe3"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbdec8"/>
+      <stop offset="1" stop-color="#dfefe3"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_4373" data-name="Group 4373" transform="translate(-64 -0.6)">
+    <circle id="Ellipse_65655" data-name="Ellipse 65655" class="cls-1" cx="8.37" cy="8.37" r="8.37" transform="translate(124.261 0.6)"/>
+    <circle id="Ellipse_65656" data-name="Ellipse 65656" class="cls-2" cx="8.37" cy="8.37" r="8.37" transform="translate(104.174 0.6)"/>
+    <circle id="Ellipse_65657" data-name="Ellipse 65657" class="cls-3" cx="8.37" cy="8.37" r="8.37" transform="translate(84.087 0.6)"/>
+    <circle id="Ellipse_65658" data-name="Ellipse 65658" class="cls-4" cx="8.37" cy="8.37" r="8.37" transform="translate(64 0.6)"/>
+  </g>
+</svg>
